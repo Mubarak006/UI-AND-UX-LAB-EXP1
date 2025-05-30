@@ -100,3 +100,5 @@ Recap the importance of UI and UX in creating a successful product.
 Discuss how UI enhances the aesthetic appeal and how UX ensures the product is functional and user-friendly.
 
 Encourage participants to explore the tools and techniques learned, and apply them to their future design projects.
+Output:
+[Uploading UI AND UX Task 1 Unit - 1_compressed (1).pdf…]()
